@@ -4,7 +4,8 @@ The task is to implement a [state-of-the-art Chinese word segmenter](https://www
 
 The model consists of bidirectional LSTMs, as descirbed in the images below:
 
-![Bi-LSTM models](images/figure1.jpg "Bi-LSTM models") ![Imput structures to the model](images/figure2.jpg "Imput structures to the model")
+<img src="images/figure1.jpg" alt="Bi-LSTM model structures" title="Bi-LSTM model structures" width="200"/>
+<img src="images/figure2.jpg" alt="Input structures to the model" title="Input structures to the model" width="200"/>
 
 [Read the report here](report.pdf)
 
