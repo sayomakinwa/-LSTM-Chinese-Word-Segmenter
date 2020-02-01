@@ -11,6 +11,11 @@ The model consists of bidirectional LSTMs, as descirbed in the images below:
 
 This project was done as part of a graduate degree NLP course with Prof. Navigli (BabelNet) at Sapienza University of Rome and was graded as excellent
 
+## How to train
+
+This repo contains an already trained model and the vocabulary from the training set in the `/resources` folder, and the validation dataset in the `/data` folder, so things can be tested rightaway.
+
+To train, download the dataset from [this link](http://sighan.cs.uchicago.edu/bakeoff2005/), extract it into the `/data` folder, then follow the code in [the notebooks](code/unigrams_only_notebook.ipynb) in the `/code` folder
 
 ## How to test
 
