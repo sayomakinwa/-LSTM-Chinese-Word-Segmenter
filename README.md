@@ -9,7 +9,7 @@ The model consists of bidirectional LSTMs, as descirbed in the images below:
 
 [Read the report here](report.pdf)
 
-This project was done as part of a graduate degree NLP course with Prof. Navigli (BabelNet) at Sapienza University of Rome and was graded as excellent.
+This project was done as part of a graduate degree NLP course with [Prof. Navigli](http://wwwusers.di.uniroma1.it/~navigli/) ([BabelNet](https://babelnet.org/)) at Sapienza University of Rome and was graded as excellent.
 
 ## How to train
 
