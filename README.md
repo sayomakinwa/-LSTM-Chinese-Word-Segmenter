@@ -1,4 +1,4 @@
-# LSTM Chinese Word Segmenter
+# NLP LSTM Chinese Word Segmentation
 
 The task is to implement a [state-of-the-art Chinese word segmenter](https://www.aclweb.org/anthology/D18-1529/) - sequence tagging - model, encoding the output in the BEIS format with each character marked as belonging to one of the four classes - B (Beginning of a word), E (End of a word), I (Inside of a word), or S (Single character).
 
